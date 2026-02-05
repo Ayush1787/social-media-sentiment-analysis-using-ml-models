@@ -80,5 +80,23 @@ Among all tested models, **Linear SVM achieved the best performance** on the dat
 
 ---
 
-## 🔮 Sentiment Prediction Example
+
+---
+
+## 🚀 Future Improvements
+
+- Use deep learning models (LSTM, BERT)  
+- Improve accuracy with hyperparameter tuning  
+- Handle class imbalance  
+- Deploy using Flask or Streamlit  
+
+---
+
+## 👨‍💻 Author
+
+**Ayush Kumar**  
+Diploma in Artificial Intelligence & Machine Learning  
+
+---
+
 
