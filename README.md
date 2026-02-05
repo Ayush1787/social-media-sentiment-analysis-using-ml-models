@@ -60,17 +60,6 @@ The dataset consists of social media posts along with metadata.
 
 ---
 
-## 📈 Model Evaluation Metrics
-
-Models are evaluated using robust performance metrics:
-
-| Metric | Description |
-|------|------------|
-| Accuracy | Overall correctness |
-| Precision | Correct positive predictions |
-| Recall | Ability to detect actual positives |
-| F1-Score | Balance between precision & recall |
-| Confusion Matrix | Class-wise performance |
 
 ---
 
